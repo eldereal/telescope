@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## 简介
 
-You can use the [editor on GitHub](https://github.com/eldereal/telescope/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+eldereal设计的天文望远镜外设器材，包括软件
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 赤道仪控制器
 
-### Markdown
+赤道仪电跟的升级模块。使用廉价的硬件组装，支持WiFi无线控制，支持导星、GOTO，通过ASCOM驱动进行通信，可以直接使用成熟的天文软件控制赤道仪。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 小型星野赤道仪
 
-```markdown
-Syntax highlighted code block
+Working in progress
 
-# Header 1
-## Header 2
-### Header 3
+## 许可证
 
-- Bulleted
-- List
+对于非软件项目，使用共享创意：署名-相同方式共享3.0协议进行许可。
+[![CC BY-SA 3.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/cn/)
 
-1. Numbered
-2. List
+对于软件项目，使用GPLv3协议进行许可。
 
-**Bold** and _Italic_ and `Code` text
+大体上说，你可以自由的获取、修改、分发这些项目，但需要保证：
+ 
+ * 署名：您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
+ * 相同方式共享：如果您再混合、转换或者基于本作品进行创作，您必须基于与原先许可协议相同的许可协议分发您贡献的作品。
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eldereal/telescope/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+详细的许可文本请查看每个项目根目录下的LICENSE文件
