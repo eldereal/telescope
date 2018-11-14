@@ -2,23 +2,31 @@
 
 eldereal设计的天文望远镜外设器材，包括软件
 
-## 赤道仪控制器
+## 赤道仪无线控制器
+
+![赤道仪无线控制器示意图](./remote-mount.jpg)
 
 赤道仪电跟的升级模块。使用廉价的硬件组装，支持WiFi无线控制，支持导星、GOTO，通过ASCOM驱动进行通信，可以直接使用成熟的天文软件控制赤道仪。
 
+[详细说明请点击此链接](./remote-mount/index.md)
+
 ## 小型星野赤道仪
 
-Working in progress
+Working in progress（70%）
+
+## 天文相机无线控制器
+
+Working in progress（0%）
 
 ## 许可证
 
-对于非软件项目，使用共享创意：署名-相同方式共享3.0协议进行许可。
-[![CC BY-SA 3.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/cn/)
+对于非软件项目，使用共享创意：署名-相同方式共享4.0协议进行许可。
+[![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/cn/)
 
 对于软件项目，使用GPLv3协议进行许可。
 
 大体上说，你可以自由的获取、修改、分发这些项目，但需要保证：
- 
+
  * 署名：您必须给出适当的署名，提供指向本许可协议的链接，同时标明是否（对原始作品）作了修改。您可以用任何合理的方式来署名，但是不得以任何方式暗示许可人为您或您的使用背书。
  * 相同方式共享：如果您再混合、转换或者基于本作品进行创作，您必须基于与原先许可协议相同的许可协议分发您贡献的作品。
 
