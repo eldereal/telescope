@@ -2,6 +2,10 @@
 
 eldereal 设计的天文望远镜外设器材，包括硬件图纸和软件代码。
 
+电子邮箱：eldereal@gmail.com
+
+微信号： `eldereal` 
+
 ## 赤道仪无线控制器
 
 ![赤道仪无线控制器示意图](./remote-mount/index.jpg)
